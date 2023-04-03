@@ -35,7 +35,7 @@
   "homepage": "https://github.com/deepsquare-io/cypress-iframe#readme",
   "devDependencies": {
     "@csquare/prettier-config": "^1.2.0",
-    "cypress": "^10.3.0",
+    "cypress": "^12.9.0",
     "esbuild": "^0.14.9",
     "http-server": "^14.0.0",
     "prettier": "^2.5.1",
